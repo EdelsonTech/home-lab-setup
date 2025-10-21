@@ -1,2 +1,9 @@
-# home-lab-setup
-Personal home lab configuration and automation scripts for Arch Linux, Docker, networking (MikroTik), and systems engineering experiments
+# Home Lab Setup
+
+Setup scripts and configurations for my personal development environment.
+
+## Contents
+- Font installation scripts
+- Docker compose files
+- Network configurations
+- Bash/Python automation
